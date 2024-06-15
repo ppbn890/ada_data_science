@@ -9,12 +9,15 @@ git init
 git diff
 git commit -m <mensagem do commit>
 git log
+git log --oneline --decorate
 git restore <file path>
 git restore --staged <file path>
 git push <origin> <branch>
 git pull
 git fetch
 git remote
+git branch <new branch name>
+git checkout <branch name>
 ```
 
 ## Gravandos mudanças no repositório

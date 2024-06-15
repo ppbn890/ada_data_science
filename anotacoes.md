@@ -8,6 +8,9 @@ git clone <repository URL>
 git init
 git diff
 git commit -m <mensagem do commit>
+git log
+git restore <file path>
+git restore --staged <file path>
 ```
 
 ## Gravandos mudanças no repositório

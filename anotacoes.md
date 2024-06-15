@@ -11,7 +11,8 @@ git commit -m <mensagem do commit>
 git log
 git restore <file path>
 git restore --staged <file path>
-git push
+git push <origin> <branch>
+git remote
 ```
 
 ## Gravandos mudanças no repositório

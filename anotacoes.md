@@ -11,6 +11,7 @@ git commit -m <mensagem do commit>
 git log
 git restore <file path>
 git restore --staged <file path>
+git push
 ```
 
 ## Gravandos mudanças no repositório
@@ -23,3 +24,5 @@ git restore --staged <file path>
 
 ## Salvando modificações no Git
 ## Git Log & Git Restore
+## GitHub
+- comando git push

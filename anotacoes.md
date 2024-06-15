@@ -13,7 +13,7 @@ git restore <file path>
 git restore --staged <file path>
 git push <origin> <branch>
 git pull
-git fech
+git fetch
 git remote
 ```
 
